@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\Kohvik (harjutus)\Covfefe\Covfefe\bin\Debug\Covfefe.exe.config
+C:\Users\opilane\Desktop\Kohvik (harjutus)\Covfefe\Covfefe\bin\Debug\Covfefe.exe
+C:\Users\opilane\Desktop\Kohvik (harjutus)\Covfefe\Covfefe\bin\Debug\Covfefe.pdb
+C:\Users\opilane\Desktop\Kohvik (harjutus)\Covfefe\Covfefe\obj\Debug\Covfefe.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\Kohvik (harjutus)\Covfefe\Covfefe\obj\Debug\Covfefe.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\Kohvik (harjutus)\Covfefe\Covfefe\obj\Debug\Covfefe.exe
+C:\Users\opilane\Desktop\Kohvik (harjutus)\Covfefe\Covfefe\obj\Debug\Covfefe.pdb
