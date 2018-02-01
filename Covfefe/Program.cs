@@ -20,18 +20,15 @@ namespace Covfefe
 
                 if (dec == 1)
                 {
-                    menu.HotChocolate();
-                    menu.Buy();
+                    
                 }
                 if (dec == 2)
                 {
-                    menu.Coffee();
-                    menu.Buy();
+                    
                 }
                 if (dec == 3)
                 {
-                    menu.Ekspresso();
-                    menu.Buy();
+                    
                 }
 
 
