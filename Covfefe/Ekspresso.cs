@@ -16,17 +16,11 @@ namespace Covfefe
             Name = "Ekspresso";
         }
 
-        public double Buy(double money)
+        public override double Buy(double money)
         {
-            double remmoney = money - Cost;
-
-            if (remmoney > 0)
-            {
-                Console.WriteLine("Ok, that'll be a " + Name);
-                Console.WriteLine("You have " + remmoney + " left on your balance.");
-                Console.ReadLine();
-            }
-            return remmoney;
+            Console.WriteLine("Be careful with this, it's hot!");
+            base.Buy(money);
+            return money;
         }
     }
 }
